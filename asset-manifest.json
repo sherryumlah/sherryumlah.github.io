@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sherryumlah/sherryumlah.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sherryumlah/sherryumlah.github.io/static/js/main.24d5dfce.chunk.js",
+    "main.js.map": "/sherryumlah/sherryumlah.github.io/static/js/main.24d5dfce.chunk.js.map",
+    "runtime-main.js": "/sherryumlah/sherryumlah.github.io/static/js/runtime-main.6ab758f3.js",
+    "runtime-main.js.map": "/sherryumlah/sherryumlah.github.io/static/js/runtime-main.6ab758f3.js.map",
+    "static/js/2.fc08bc91.chunk.js": "/sherryumlah/sherryumlah.github.io/static/js/2.fc08bc91.chunk.js",
+    "static/js/2.fc08bc91.chunk.js.map": "/sherryumlah/sherryumlah.github.io/static/js/2.fc08bc91.chunk.js.map",
+    "index.html": "/sherryumlah/sherryumlah.github.io/index.html",
+    "precache-manifest.81c0bc433f3495e9af7b41c3c4675523.js": "/sherryumlah/sherryumlah.github.io/precache-manifest.81c0bc433f3495e9af7b41c3c4675523.js",
+    "service-worker.js": "/sherryumlah/sherryumlah.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sherryumlah/sherryumlah.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fc08bc91.chunk.js.LICENSE.txt": "/sherryumlah/sherryumlah.github.io/static/js/2.fc08bc91.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sherryumlah/sherryumlah.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ab758f3.js",
+    "static/js/2.fc08bc91.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.24d5dfce.chunk.js"
+  ]
+}
